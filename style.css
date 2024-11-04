@@ -1,0 +1,72 @@
+.body{
+    background-color: rgb(189, 189, 191, 1);
+}
+.container {
+    background-color: rgb(225, 226, 226, 1);
+    color: rgb(112, 108, 101, 1);
+    text-transform: capitalize;
+}
+.container1
+{
+    background-color: rgb(44, 133, 198, 1);
+    color: white;
+    text-transform: uppercase;
+}
+.container2{
+    background-color: rgb(41, 146, 208, 1);
+    color: white;
+}
+.container3 {
+    bckground-color: rgb(30, 158, 217, 1);
+    color: white;
+}
+.container4 {
+    bckground-color: rgb(51, 167, 222, 1);
+    color: white;
+}
+.container5{
+    background-color: rgb(87, 182, 231, 1);
+    color: white;
+}
+.container6{
+    background-color: rgb(115, 192, 235, 1);
+    color: white;
+}
+.container7{
+    background-color: rgb(115, 192, 235, 1);
+    color: white;
+}
+.container8{
+    background-color: rgb(27, 181, 132, 1);
+    color: white;
+    text-transform: uppercase;
+}
+.container9 {
+    background-color: rgb(245, 177, 205, 1);
+    color: white;
+}
+.container10 {
+    background-color: rgb(244, 156, 193, 1);
+    color: white;
+}
+.container11 {
+    background-color: rgb(243, 140, 181, 1);
+    color: white;
+}
+.container12 {
+    background-color: rgb(242, 121, 167, 1);
+    color: white;
+}
+.container13 {
+    background-color: rgb(240, 102, 147, 1);
+    color: white;
+}
+.container14 {
+    background-color: rgb(239, 88, 138, 1);
+    color: white;
+}
+.container15 {
+    background-color: rgb(239, 58, 127, 1);
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+}
